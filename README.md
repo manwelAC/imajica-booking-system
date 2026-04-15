@@ -47,4 +47,12 @@ A custom ERP solution designed for aesthetic clinics, providing streamlined oper
       <br/><img src="imajica-images/patientsessions.png" alt="Patient Sessions" width="400"/>
     </td>
   </tr>
+    <tr>
+    <td>
+      <strong>Sales</strong><br/>
+      Track Sales from different Imajica Branches
+      <br/><img src="imajica-images/Sales.png" alt="Sales" width="400"/>
+    </td>
+  </tr>
+
 </table>
