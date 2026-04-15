@@ -46,13 +46,26 @@ A custom ERP solution designed for aesthetic clinics, providing streamlined oper
       Track treatment sessions and client progress.
       <br/><img src="imajica-images/patientsessions.png" alt="Patient Sessions" width="400"/>
     </td>
-  </tr>
-    <tr>
-    <td>
+  <td>
       <strong>Sales</strong><br/>
       Track Sales from different Imajica Branches
       <br/><img src="imajica-images/Sales.png" alt="Sales" width="400"/>
     </td>
   </tr>
+
+  <tr>
+    <td>
+      <strong>Best Selling Products</strong><br/>
+      Track Best Selling Products
+      <br/><img src="imajica-images/bestselling.png" alt="Best Selling" width="400"/>
+    </td>
+  <td>
+      <strong>Paperless Forms</strong><br/>
+       To maximize the use of website and avoid paper-forms for better file handling
+      <br/><img src="imajica-images/imajica-forms.png" alt="Sales" width="400"/>
+    </td>
+  </tr>
+
+  
 
 </table>
