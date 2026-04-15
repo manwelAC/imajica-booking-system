@@ -14,15 +14,16 @@ A custom ERP solution designed for aesthetic clinics, providing streamlined oper
 - **Custom packages**: Flexible promotions and bundles.  
 - **Role-based access**: Permissions tailored to staff responsibilities.  
 
-# Auth
-![Authentication](imajica-images/auth.png)
-
-# Dashboard View
-![System Dashboard](imajica-images/dashboard.png)
-
-# Booking Management / POS view
-![Booking Management](imajica-images/POS.png)
-
-# Patient Installment / Session Tracking
-![Patient Installment](imajica-images/installmentpayment.png)
-![Patient Sessions](imajica-images/patientsessions.png)
+<table>
+  <tr>
+    <td><img src="imajica-images/auth.png" alt="Authentication" width="400"/></td>
+    <td><img src="imajica-images/dashboard.png" alt="Dashboard View" width="400"/></td>
+  </tr>
+  <tr>
+    <td><img src="imajica-images/POS.png" alt="Booking Management / POS view" width="400"/></td>
+    <td><img src="imajica-images/installmentpayment.png" alt="Patient Installment" width="400"/></td>
+  </tr>
+  <tr>
+    <td><img src="imajica-images/patientsessions.png" alt="Patient Sessions" width="400"/></td>
+  </tr>
+</table>
