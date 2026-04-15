@@ -15,3 +15,6 @@ A custom ERP solution designed for aesthetic clinics, providing streamlined oper
 - **Role-based access**: Permissions tailored to staff responsibilities.  
 
 ## Screenshots
+
+## Auth
+![System Dashboard](imajica-images/auth.png)
