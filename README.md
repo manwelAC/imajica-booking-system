@@ -61,11 +61,35 @@ A custom ERP solution designed for aesthetic clinics, providing streamlined oper
     </td>
   <td>
       <strong>Paperless Forms</strong><br/>
-       To maximize the use of website and avoid paper-forms for better file handling
+       To maximize the use of website and avoid paper-forms
       <br/><img src="imajica-images/imajica-forms.png" alt="Sales" width="400"/>
     </td>
   </tr>
 
-  
+  <tr>
+    <td>
+      <strong>Staff Commissions</strong><br/>
+      Track Product Commissions of Imajica Staffs
+      <br/><img src="imajica-images/staff-commission.png" alt="Staff Commissions" width="400"/>
+    </td>
+  <td>
+      <strong>Expired Products</strong><br/>
+       To check expired products
+      <br/><img src="imajica-images/expired-products.png" alt="products-expired" width="400"/>
+    </td>
+  </tr>
+
+  <tr>
+    <td>
+      <strong>Cashflow Calendar</strong><br/>
+      Track Expenses through calendar view
+      <br/><img src="imajica-images/cashflow-calendar.png" alt="Staff Commissions" width="400"/>
+    </td>
+  <td>
+      <strong>Expenses Management</strong><br/>
+       Expenses that deducts to Imajica's Monthly Sales
+      <br/><img src="imajica-images/expenses.png" alt="products-expired" width="400"/>
+    </td>
+  </tr>
 
 </table>
