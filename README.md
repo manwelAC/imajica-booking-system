@@ -13,17 +13,38 @@ A custom ERP solution designed for aesthetic clinics, providing streamlined oper
 - **Installment tracking**: Payment management for high-value treatments.  
 - **Custom packages**: Flexible promotions and bundles.  
 - **Role-based access**: Permissions tailored to staff responsibilities.  
+## 📸 Screenshots
 
 <table>
   <tr>
-    <td><img src="imajica-images/auth.png" alt="Authentication" width="400"/></td>
-    <td><img src="imajica-images/dashboard.png" alt="Dashboard View" width="400"/></td>
+    <td>
+      <strong>Authentication</strong><br/>
+      User login and secure access.
+      <br/><img src="imajica-images/auth.png" alt="Authentication" width="400"/>
+    </td>
+    <td>
+      <strong>Dashboard View</strong><br/>
+      Overview of sales, expenses, and client highlights.
+      <br/><img src="imajica-images/dashboard.png" alt="Dashboard View" width="400"/>
+    </td>
   </tr>
   <tr>
-    <td><img src="imajica-images/POS.png" alt="Booking Management / POS view" width="400"/></td>
-    <td><img src="imajica-images/installmentpayment.png" alt="Patient Installment" width="400"/></td>
+    <td>
+      <strong>Booking Management / POS</strong><br/>
+      Service selection and in‑clinic sales interface.
+      <br/><img src="imajica-images/POS.png" alt="Booking Management / POS view" width="400"/>
+    </td>
+    <td>
+      <strong>Patient Installment Tracking</strong><br/>
+      Manage payment installments for treatments.
+      <br/><img src="imajica-images/installmentpayment.png" alt="Patient Installment" width="400"/>
+    </td>
   </tr>
   <tr>
-    <td><img src="imajica-images/patientsessions.png" alt="Patient Sessions" width="400"/></td>
+    <td>
+      <strong>Patient Sessions</strong><br/>
+      Track treatment sessions and client progress.
+      <br/><img src="imajica-images/patientsessions.png" alt="Patient Sessions" width="400"/>
+    </td>
   </tr>
 </table>
