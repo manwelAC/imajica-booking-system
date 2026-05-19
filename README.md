@@ -95,12 +95,12 @@ A custom ERP solution designed for aesthetic clinics, providing streamlined oper
 </table>
 
 
-##Added features / Maintenance from my continouos support from Imajica Booking System:
-- Daily Report : Auto-fetch data from every created bookings and Used sessions
-- Refactored: Expenses to have a dedicated create expenses which will deduct from cash flow
-- Consumables flow: Basic CRUD for Consumables in Imajica (eg. Tissues, Pillow, Bottles)
-- Warehouse Inventory: a dedicated Main Inventory for Imajica Aesthethics' Products and Consumables
-- Branch Orders: Have a dedicated branch ordering which will deduct from Warehouse Inventory -> Either add to Product / Consumables depending on the orders.
-Basic flow solutions:
+# Added features / Maintenance from my continouos support from Imajica Booking System:
+## - Daily Report : Auto-fetch data from every created bookings and Used sessions
+## - Refactored: Expenses to have a dedicated create expenses which will deduct from cash flow
+## - Consumables flow: Basic CRUD for Consumables in Imajica (eg. Tissues, Pillow, Bottles)
+## - Warehouse Inventory: a dedicated Main Inventory for Imajica Aesthethics' Products and Consumables
+## - Branch Orders: Have a dedicated branch ordering which will deduct from Warehouse Inventory -> Either add to Product / Consumables depending on the orders.
+## Basic flow solutions:
 <img src="imajica-images/branchorder-flow.png" alt="branch-flow" width="400"/>
  
