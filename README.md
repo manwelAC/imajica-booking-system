@@ -93,3 +93,20 @@ A custom ERP solution designed for aesthetic clinics, providing streamlined oper
   </tr>
 
 </table>
+
+
+##Added features / Maintenance from my continouos support from Imajica Booking System:
+- Daily Report : Auto-fetch data from every created bookings and Used sessions
+- Refactored: Expenses to have a dedicated create expenses which will deduct from cash flow
+- Consumables flow: Basic CRUD for Consumables in Imajica (eg. Tissues, Pillow, Bottles)
+- Warehouse Inventory: a dedicated Main Inventory for Imajica Aesthethics' Products and Consumables
+- Branch Orders: Have a dedicated branch ordering which will deduct from Warehouse Inventory -> Either add to Product / Consumables depending on the orders.
+Basic flow solutions:
+Get warehouse_inventory record
+├─ Check item_type
+├─ DEDUCT warehouse_inventory.warehouse_stock
+├─ If item_type = 'product':
+│  └─ ADD to new_product (product_id from warehouse).quantity
+└─ If item_type = 'consumable':
+   └─ ADD to consumables (consumable_id from warehouse).quantity
+ 
