@@ -102,5 +102,5 @@ A custom ERP solution designed for aesthetic clinics, providing streamlined oper
 - Warehouse Inventory: a dedicated Main Inventory for Imajica Aesthethics' Products and Consumables
 - Branch Orders: Have a dedicated branch ordering which will deduct from Warehouse Inventory -> Either add to Product / Consumables depending on the orders.
 Basic flow solutions:
-
+<img src="imajica-images/branch-flow.png" alt="branch-flow" width="400"/>
  
